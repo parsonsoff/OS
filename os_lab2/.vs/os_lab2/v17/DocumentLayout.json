@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parsons\\Documents\\Visual Studio 2022\\os_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EC20F-5EBA-4916-9C52-7AD762D5399C}|os_lab2\\os_lab2.vcxproj|C:\\Users\\parsons\\Documents\\Visual Studio 2022\\os_lab2\\os_lab2\\os_lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C2EC20F-5EBA-4916-9C52-7AD762D5399C}|os_lab2\\os_lab2.vcxproj|solutionrelative:os_lab2\\os_lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "os_lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\parsons\\Documents\\Visual Studio 2022\\os_lab2\\os_lab2\\os_lab2.cpp",
+              "RelativeDocumentMoniker": "os_lab2\\os_lab2.cpp",
+              "ToolTip": "C:\\Users\\parsons\\Documents\\Visual Studio 2022\\os_lab2\\os_lab2\\os_lab2.cpp",
+              "RelativeToolTip": "os_lab2\\os_lab2.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwDMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T20:27:21.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

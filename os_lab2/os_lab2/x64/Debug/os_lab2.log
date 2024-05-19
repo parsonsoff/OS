@@ -1,0 +1,3 @@
+﻿  os_lab2.cpp
+C:\Users\parsons\Documents\Visual Studio 2022\os_lab2\os_lab2\os_lab2.cpp(93,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  os_lab2.vcxproj -> C:\Users\parsons\Documents\Visual Studio 2022\os_lab2\x64\Debug\os_lab2.exe
